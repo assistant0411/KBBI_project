@@ -1,0 +1,44 @@
+// media group
+
+@mixin media-pc {
+    @media screen and (max-width: 1240px) {
+        @content;
+    }
+}
+
+@mixin media-pc-sm {
+    @media screen and (max-width: 1150px) {
+        @content;
+    }
+}
+
+@mixin media-tablet {
+    @media screen and (max-width: 1000px) {
+        @content;
+    }
+}
+
+@mixin media-sp {
+    @media screen and (max-width: 767px) {
+        @content;
+    }
+}
+
+@mixin media-is-pc {
+    @media screen and (min-width: 768px) {
+        @content;
+    }
+}
+
+// layout
+.l-container{
+    max-width: 1240rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+    @include media-sp(){
+        padding-left: 17rem;
+        padding-right: 17rem;
+    }
+}

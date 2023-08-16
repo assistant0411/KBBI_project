@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "hiragino-kaku-gothic-pro-w6" ;
+    src: url(../fonts/hiragino-kaku-gothic-pro-w6_0.otf);
+}
+
+@font-face {
+    font-family: "SourceHanCodeJP-Normal";
+    src: url(../fonts/SourceHanCodeJP-Normal.otf);
+}
+
+@font-face {
+    font-family: "SourceHanCodeJP-Bold";
+    src: url(../fonts/SourceHanCodeJP-Bold.otf);
+}
+
+@font-face {
+    font-family: "YuGothM";
+    src: url(../fonts/YuGothM_0.ttc);
+}
+
+@font-face {
+    font-family: "YuGothB";
+    src: url(../fonts/YuGothB.ttc);
+}
+
+@font-face {
+    font-family: "Massilia-Light";
+    src: url(../fonts/Massilia-Light.otf);
+}
+
+@font-face {
+    font-family: "Massilia-Medium";
+    src: url(../fonts/Massilia-Medium.otf);
+}
+
+@font-face {
+    font-family: "Massilia-Bold";
+    src: url(../fonts/Massilia-Bold.otf);
+}
+
+$font-hiragino-kaku: "hiragino-kaku-gothic-pro-w6";
+$font-han-normal: "SourceHanCodeJP-Normal";
+$font-han-bold: "SourceHanCodeJP-Bold";
+$font-yugothic-m: "YuGothM";
+$font-yogothic-b: "YuGothB";
+$font-massilia-Light: "Massilia-Light";
+$font-massilia-Medium: "Massilia-Medium";
+$font-massilia-bold: "Massilia-Bold";
