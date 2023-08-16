@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="359" height="187" viewBox="0 0 359 187">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.009" y1="0.034" x2="0.979" y2="0.95" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8000"/>
+      <stop offset="1" stop-color="#fad961"/>
+    </linearGradient>
+  </defs>
+  <g id="タイトル" transform="translate(-17 -5952.7)">
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="359" height="187" transform="translate(17 5952.7)" fill="#fff"/>
+    <path id="Union_10" data-name="Union 10" d="M-1903.242,61.623v-34.2a75.93,75.93,0,0,1-6.638,7.108,58.458,58.458,0,0,0-4.626-8.449c7.242-6.1,14.282-15.959,18.306-26.084l7.912,2.615a107.84,107.84,0,0,1-6.973,13.545V61.623Zm30.845-.671c-8.449,0-10.863-2.683-10.863-12.137V.872h8.047V23.8a114.074,114.074,0,0,0,16.9-11.735l5.9,6.973a162.386,162.386,0,0,1-22.8,12.942v16.9c0,3.956.469,4.627,3.688,4.627h9.857c3.219,0,3.755-2.28,4.292-11.734a23.031,23.031,0,0,0,7.376,3.42c-.938,11.533-3.017,15.758-10.93,15.758Zm-59.091,0-6.957-13.075c-1.677-3.1-3.186-6.2-4.946-9.975h-.42c-1.592,3.772-3.017,6.874-4.526,9.975l-6.7,13.075H-1968.7l17.769-31.264-16.6-29.5h14.165l6.286,12.238c1.425,2.765,2.85,5.783,4.694,9.555h.336c1.509-3.772,2.85-6.789,4.19-9.555l5.951-12.238h13.495l-16.6,30.091,17.77,30.678Zm-88.512,0V.184h16.512c17.686,0,28.918,9.556,28.918,30.174,0,20.536-11.232,30.594-28.247,30.594Zm12.741-10.226h3.1c10.142,0,16.6-5.7,16.6-20.368s-6.454-19.865-16.6-19.865h-3.1Z" transform="translate(2050 5965)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <text id="に関する" transform="translate(203.9 6021.72)" font-size="40" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">に関する</tspan></text>
+    <text id="ご相談_お問い合わせ_資料請求はこちら" data-name="ご相談・お問い合わせ
+資料請求はこちら" transform="translate(197 6071.72)" font-size="33" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="-165" y="0">ご相談・お問い合わせ</tspan><tspan x="-132" y="48">資料請求はこちら</tspan></text>
+  </g>
+</svg>

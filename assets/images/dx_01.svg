@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="789" height="158" viewBox="0 0 789 158">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.009" y1="0.034" x2="0.979" y2="0.95" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8000"/>
+      <stop offset="1" stop-color="#fad961"/>
+    </linearGradient>
+  </defs>
+  <g id="タイトル" transform="translate(-356 -6755)">
+    <g id="Group_117" data-name="Group 117" transform="translate(400 -63)">
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="479" height="96" transform="translate(111 6818)" fill="#fff"/>
+      <path id="Union_10" data-name="Union 10" d="M-1880.7,73.52V32.72a90.618,90.618,0,0,1-7.92,8.48,69.738,69.738,0,0,0-5.52-10.08c8.64-7.28,17.04-19.04,21.84-31.12l9.439,3.12a128.662,128.662,0,0,1-8.32,16.16V73.52Zm36.8-.8c-10.08,0-12.96-3.2-12.96-14.48V1.04h9.6V28.4a136.09,136.09,0,0,0,20.16-14l7.04,8.32a193.738,193.738,0,0,1-27.2,15.44V58.32c0,4.72.56,5.52,4.4,5.52h11.759c3.84,0,4.48-2.72,5.12-14a27.479,27.479,0,0,0,8.8,4.08c-1.12,13.76-3.6,18.8-13.04,18.8Zm-70.5,0-8.3-15.6c-2-3.7-3.8-7.4-5.9-11.9h-.5c-1.9,4.5-3.6,8.2-5.4,11.9l-8,15.6h-16.3l21.2-37.3L-1957.4.22h16.9l7.5,14.6c1.7,3.3,3.4,6.9,5.6,11.4h.4c1.8-4.5,3.4-8.1,5-11.4l7.1-14.6h16.1l-19.8,35.9,21.2,36.6Zm-105.6,0V.22h19.7c21.1,0,34.5,11.4,34.5,36,0,24.5-13.4,36.5-33.7,36.5Zm15.2-12.2h3.7c12.1,0,19.8-6.8,19.8-24.3s-7.7-23.7-19.8-23.7h-3.7Z" transform="translate(2150.1 6829.28)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+      <text id="に関する" transform="translate(335 6895)" font-size="60" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">に関する</tspan></text>
+    </g>
+    <g id="Group_118" data-name="Group 118" transform="translate(2 -107)">
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="789" height="72" transform="translate(354 6948)" fill="#fff"/>
+      <text id="ご相談_お問い合わせ_資料請求はこちら" data-name="ご相談・お問い合わせ・資料請求はこちら" transform="translate(370 7000)" font-size="40" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">ご相談・お問い合わせ・資料請求はこちら</tspan></text>
+    </g>
+  </g>
+</svg>

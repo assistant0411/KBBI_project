@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337" height="167" viewBox="0 0 337 167">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.009" y1="0.034" x2="0.979" y2="0.95" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8000"/>
+      <stop offset="1" stop-color="#fad961"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_400" data-name="Group 400" transform="translate(-30 -409)">
+    <text id="企業の" transform="translate(30 477)" font-size="60" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">企業の</tspan></text>
+    <path id="Union_10" data-name="Union 10" d="M-1896.374,65.248V29.039a80.41,80.41,0,0,1-7.029,7.526,61.9,61.9,0,0,0-4.9-8.946c7.668-6.461,15.122-16.9,19.383-27.619l8.377,2.769a114.166,114.166,0,0,1-7.384,14.341V65.248Zm32.66-.71c-8.946,0-11.5-2.84-11.5-12.851V.923h8.52V25.2A120.779,120.779,0,0,0-1848.8,12.78l6.248,7.384a171.943,171.943,0,0,1-24.139,13.7V51.758c0,4.189.5,4.9,3.9,4.9h10.436c3.408,0,3.976-2.414,4.544-12.424a24.386,24.386,0,0,0,7.81,3.621c-.994,12.212-3.195,16.685-11.573,16.685Zm-62.567,0-7.366-13.844c-1.776-3.284-3.373-6.568-5.236-10.562h-.444c-1.686,3.994-3.194,7.278-4.792,10.562l-7.1,13.844h-14.466l18.814-33.1L-1964.444.195h15l6.656,12.958c1.509,2.928,3.018,6.123,4.97,10.117h.355c1.6-3.994,3.018-7.189,4.437-10.117l6.3-12.958h14.289l-17.572,31.861,18.815,32.482Zm-93.719,0V.195h17.484c18.726,0,30.619,10.118,30.619,31.949,0,21.744-11.892,32.394-29.909,32.394Zm13.49-10.828h3.284c10.738,0,17.572-6.034,17.572-21.566s-6.834-21.033-17.572-21.033h-3.284Z" transform="translate(2057.1 500.28)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <text id="を" transform="translate(217 559)" font-size="52" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">を</tspan></text>
+    <text id="推進" transform="translate(263 559)" font-size="52" font-family="SourceHanCodeJP-Bold, Source Han Code JP" font-weight="700"><tspan x="0" y="0">推進</tspan></text>
+  </g>
+</svg>

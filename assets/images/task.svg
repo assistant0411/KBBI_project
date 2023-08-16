@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.086" height="48" viewBox="0 0 37.086 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_293" data-name="Rectangle 293" width="37.086" height="48" fill="#24ab74"/>
+    </clipPath>
+  </defs>
+  <g id="Group_239" data-name="Group 239" transform="translate(-268.414 -9476)">
+    <g id="Group_236" data-name="Group 236" transform="translate(32.414 -439)">
+      <rect id="Rectangle_294" data-name="Rectangle 294" width="34" height="39" transform="translate(238 9922)" fill="#fff"/>
+      <g id="Group_228" data-name="Group 228" transform="translate(236 9915)">
+        <g id="Group_229" data-name="Group 229" clip-path="url(#clip-path)">
+          <path id="Path_543" data-name="Path 543" d="M36.721,8.246A4.645,4.645,0,0,0,32.442,5.41h-4V4.72h-5.8A4.143,4.143,0,1,0,14.4,4.144a4.172,4.172,0,0,0,.041.576h-5.8v.69h-4A4.644,4.644,0,0,0,0,10.055v33.3A4.643,4.643,0,0,0,4.644,48h27.8a4.643,4.643,0,0,0,4.644-4.644v-33.3a4.616,4.616,0,0,0-.365-1.809M18.543,2.606A1.537,1.537,0,0,1,19.968,4.72H17.119a1.534,1.534,0,0,1,1.425-2.114m15.78,40.75a1.852,1.852,0,0,1-.147.732,1.892,1.892,0,0,1-.683.83,1.872,1.872,0,0,1-1.051.32H4.644a1.868,1.868,0,0,1-.732-.147,1.892,1.892,0,0,1-.829-.683,1.869,1.869,0,0,1-.32-1.051v-33.3A1.883,1.883,0,0,1,4.644,8.172h4v.575A1.957,1.957,0,0,0,10.6,10.705H26.485a1.957,1.957,0,0,0,1.957-1.958V8.172h4a1.854,1.854,0,0,1,.732.148A1.892,1.892,0,0,1,34,9a1.861,1.861,0,0,1,.32,1.052Z" transform="translate(0)" fill="#24ab74"/>
+          <rect id="Rectangle_287" data-name="Rectangle 287" width="2.965" height="2.965" transform="translate(9.181 16)" fill="#24ab74"/>
+          <rect id="Rectangle_288" data-name="Rectangle 288" width="12.221" height="2.965" transform="translate(15.686 16)" fill="#24ab74"/>
+          <rect id="Rectangle_289" data-name="Rectangle 289" width="2.965" height="2.964" transform="translate(9.181 24.762)" fill="#24ab74"/>
+          <rect id="Rectangle_290" data-name="Rectangle 290" width="12.221" height="2.964" transform="translate(15.686 24.762)" fill="#24ab74"/>
+          <rect id="Rectangle_291" data-name="Rectangle 291" width="2.965" height="2.966" transform="translate(9.181 33.524)" fill="#24ab74"/>
+          <rect id="Rectangle_292" data-name="Rectangle 292" width="12.221" height="2.966" transform="translate(15.686 33.524)" fill="#24ab74"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
